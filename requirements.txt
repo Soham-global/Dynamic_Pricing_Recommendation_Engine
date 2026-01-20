@@ -1,0 +1,8 @@
+pandas
+numpy==1.25.2
+seaborn
+matplotlib
+scikit-learn==1.8.0
+ipykernel
+flask
+joblib

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dynamic Pricing Engine</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+<div class="container">
+    <div class="hero">
+        <h1>🎯 Dynamic Pricing Recommendation Engine</h1>
+        <p class="subtitle">AI-Powered Price Optimization using Machine Learning & Reinforcement Learning</p>
+    </div>
+
+    <div class="features">
+        <div class="feature-card">
+            <div class="feature-icon">🤖</div>
+            <h3>ML Demand Prediction</h3>
+            <p>Predicts customer demand using advanced regression models</p>
+        </div>
+        <div class="feature-card">
+            <div class="feature-icon">🧠</div>
+            <h3>Q-Learning Optimization</h3>
+            <p>Learns optimal pricing strategies through reinforcement learning</p>
+        </div>
+        <div class="feature-card">
+            <div class="feature-icon">📊</div>
+            <h3>Market Analysis</h3>
+            <p>Analyzes competitor prices and market conditions</p>
+        </div>
+    </div>
+
+    <div class="cta-section">
+        <h2>Get Your Price Recommendation</h2>
+        <p>Enter your product details to receive AI-powered pricing suggestions</p>
+        <a href="{{ url_for('predict_datapoint') }}" class="cta-button">Get Started →</a>
+    </div>
+
+    <div class="info-section">
+        <h3>How It Works</h3>
+        <div class="steps">
+            <div class="step">
+                <span class="step-number">1</span>
+                <p>Enter product and market details</p>
+            </div>
+            <div class="step">
+                <span class="step-number">2</span>
+                <p>AI analyzes pricing dynamics</p>
+            </div>
+            <div class="step">
+                <span class="step-number">3</span>
+                <p>Get optimal price recommendation</p>
+            </div>
+            <div class="step">
+                <span class="step-number">4</span>
+                <p>Maximize your profits!</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Built by Soham | January 2026</p>
+    </footer>
+</div>
+</body>
+</html>
