@@ -281,10 +281,10 @@ Dynamic_Pricing_Engine/
 ## 🔮 Future Enhancements
 
 ### Short-term Improvements
-- [ ] **Flask Web Application**: Basic demo interface implemented
-- [ ] **Deep Q-Learning (DQN)**: Neural network-based RL
-- [ ] **Extended Training**: Increase to 5,000+ episodes
-- [ ] **Business Rule Overrides**: Add constraints for peak demand scenarios
+-  **Flask Web Application**: Basic demo interface implemented
+-  **Deep Q-Learning (DQN)**: Neural network-based RL
+-  **Extended Training**: Increase to 5,000+ episodes
+-  **Business Rule Overrides**: Add constraints for peak demand scenarios
 
 ### Medium-term Goals
 - [ ] **Real-time Data Integration**: Connect to competitor pricing APIs
