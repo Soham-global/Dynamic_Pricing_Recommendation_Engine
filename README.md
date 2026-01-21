@@ -287,16 +287,16 @@ Dynamic_Pricing_Engine/
 -  **Business Rule Overrides**: Add constraints for peak demand scenarios
 
 ### Medium-term Goals
-- [ ] **Real-time Data Integration**: Connect to competitor pricing APIs
-- [ ] **Multi-product Optimization**: Portfolio-level pricing strategies
-- [ ] **Customer Lifetime Value**: Factor in long-term relationships
-- [ ] **Modular Code Structure**: Refactor into production-ready components
+-  **Real-time Data Integration**: Connect to competitor pricing APIs
+-  **Multi-product Optimization**: Portfolio-level pricing strategies
+-  **Customer Lifetime Value**: Factor in long-term relationships
+-  **Modular Code Structure**: Refactor into production-ready components
 
 ### Long-term Vision
-- [ ] **Time-series Forecasting**: LSTM/Prophet for demand prediction
-- [ ] **Multi-agent RL**: Competitive pricing simulation
-- [ ] **Personalized Pricing**: Customer segment-specific recommendations
-- [ ] **Cloud Deployment**: AWS/Azure with auto-scaling
+-  **Time-series Forecasting**: LSTM/Prophet for demand prediction
+-  **Multi-agent RL**: Competitive pricing simulation
+-  **Personalized Pricing**: Customer segment-specific recommendations
+-  **Cloud Deployment**: AWS/Azure with auto-scaling
 
 ---
 
